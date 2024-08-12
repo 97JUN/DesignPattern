@@ -19,7 +19,7 @@ Observer, Subject간 관게가 잘 정의되지 않으면 원하지 않는 동�
 
 
 
-##예시 코드
+## 예시 코드
 ```swift
 protocol Subject {
   var observers: [Observer] { get set }
