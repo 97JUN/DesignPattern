@@ -1,4 +1,5 @@
 # 추상 팩토리 패턴
+Abstract Factory는 실제 객체가 정확히 무엇인지 알지 못해도 객체를 생성하고 조작할 수 있도록 해준다.
 객체의 집합을 생성할때 유리한 패턴, 기존 팩토리를 한번 더 추상화 하여 서로 관련있는 제품군을 생성
 Button, Label 만드는 Factory가 있을때 IPhone Button, label, IPad Button , Label 각각 만들도록
 
